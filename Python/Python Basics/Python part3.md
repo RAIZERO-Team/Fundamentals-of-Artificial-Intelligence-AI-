@@ -1,6 +1,5 @@
-# Improved content for the Markdown documentation file
 
-improved_content = """
+
 # Python Containers Documentation
 
 ## Table of Contents
